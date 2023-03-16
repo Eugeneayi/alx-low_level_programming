@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-*main -this is printf functoin for printing
+*main -this is printf functoin
 *
 *Return: 0 when it is sucessfull
 */
