@@ -12,9 +12,13 @@ int i;
 
 for (i = '0'; i <= '9' ; i++)
 {
+if (i == 9)
 putchar(i);
-putchar(' ');
+
+else
+putchar(i);
 putchar(',');
+putchar(' ');
 }
 return (0);
 }
