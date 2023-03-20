@@ -3,7 +3,7 @@
 /**
 *main - main function
 *
-*Return : 0
+*Return: 0
 */
 
 int main(void)
@@ -13,8 +13,8 @@ int i;
 for (i = '0'; i <= '9' ; i++)
 {
 putchar(i);
-putchar(',');
 putchar(' ');
+putchar(',');
 }
 return (0);
 }
